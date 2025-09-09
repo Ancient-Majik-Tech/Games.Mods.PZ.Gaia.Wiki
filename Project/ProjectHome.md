@@ -47,8 +47,19 @@ This feature is currently under work.
 	- Versioning Handler For
 		- E.AMT.Games.Mods.PZ.Gaia.Wiki
 
-[Project Desc]
+Project Zomboid: Gaia Edition is a custom lua code overhaul and expantion providing cleaner foundation in the background. Provides many unique features which help make mods more handleable but also alot more stable. 
 
 ### System Layout
 
 - Systems
+	- [Runtime Type Handling Expansion][Sys Types]
+	- [Runtime Object Handling Expansion][Sys Objects]
+	- [Advanced Object Collections][Sys Collect]
+	- [Runtime Context Handling Extention][Sys Contexts]
+	- [Runtime Debugging and Extention Logging][Sys Debug]
+	- [Advanced Events Handling][Sys Events]
+	- [Gaia Project Host][Sys Host]
+	- [Runtime Loading Extention][Sys RunLoad]
+	- [Advanced Runtime Logic Extention][Sys Logic]
+	- [Advanced Typed Math Extention][Sys Math]
+	- [Rolling Runtime Update Load Extention][Sys RollUpdate]
